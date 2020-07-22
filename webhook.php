@@ -52,7 +52,7 @@ elseif (strpos($text, "storie") !== false)
 	$response = " La prossima volta che fai storie, ti faccio saltare in aria! ";
 
 }
-elseif (strpos($text, "preda") !== false)
+elseif (strpos($text, "casino") !== false)
 {
 	$response = " Ti mostrerò cosa ottieni quando fai casino con la preda di qualcun altro.";
 
