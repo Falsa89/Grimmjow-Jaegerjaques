@@ -1,8 +1,8 @@
 <?php
 
 // PARAMETRI DA MODIFICARE
-$WEBHOOK_URL = 'https://sosukeaizen.herokuapp.com/webhook.php';
-$BOT_TOKEN = '1365554999:AAG6G2haviumYWXkCOY76YnMCC0IycMFpTA';
+$WEBHOOK_URL = 'https://grimmjowjaegerjaques.herokuapp.com/webhook.php';
+$BOT_TOKEN = '1249361951:AAE5lAvXDnBIOZyT7X5ukMMfHZ2zbOV1aLo';
 
 // NON APPORTARE MODIFICHE NEL CODICE SEGUENTE
 $parameters = array('url' => $WEBHOOK_URL);
