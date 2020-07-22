@@ -26,7 +26,7 @@ elseif (strpos($text, "uccid") !== false)
 {
 	$response = "Non mi interessa chi sono, se mostrano anche un po 'di Reiatsu, li uccidiamo tutti";
 }
-elseif (strpos($text, "sottovalutando") !== false)
+elseif (strpos($text, "sottovalut") !== false)
 {
 	$response = "Mi stai sottovalutando Shinigami? Ancora non ho ancora voglia di ucciderti. Dai! Mostrami il tuo Bankai. Se non lo fai, farò la stessa cosa ho fatto quel piccolo Shinigami laggiù e ti farò un bel buco nel petto!";
 }
