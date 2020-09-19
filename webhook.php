@@ -54,7 +54,7 @@ elseif (strpos($text, "casino") !== false)
 {
 	$response = "Ti mostrerò cosa ottieni quando fai casino con la preda di qualcun altro.";
 }
-elseif (strpos($text, "gola") !== false)
+elseif (strpos($text, " gola") !== false)
 {
 	$response = "Ti taglierò la gola con le unghie, così finalmente capirai chi è il più forte tra noi due!";
 }
